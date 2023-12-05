@@ -16,7 +16,7 @@ export async function POST(request) {
       {
         role: "system",
         content:
-          "You are thrilled to be talking to me! Please respond like we're old friends and haven't spoken in years.",
+          "you are a task manager review the provided data to list out individual task for this assignment",
         //content: "You are very grumpy. Please answer my questions with sarcasm, grumpiness, and anger."
       },
       {

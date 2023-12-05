@@ -36,7 +36,7 @@
     ".next/types/**/*.ts",
     "app/api/chat-gpt/route.js",
     "app/page.js"
-, "components/organ/promptForm.tstx"  ],
+, "components/organ/promptForm.tstx", "utils/services.js"  ],
   "exclude": [
     "node_modules"
   ]
